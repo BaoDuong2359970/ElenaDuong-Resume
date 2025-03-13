@@ -1,5 +1,5 @@
 # About me 👋✨
-**Hi! I'm Elena Bao Ngoc Duong, an 18-year-old computer science student based in Montreal.**
+**Hi! I'm Elena Bao Ngoc Duong, an 19-year-old computer science student based in Montreal.**
 I'm currently in my second year of the **Computer Science Technology program (420.B0)** at Collège Bois-de-Boulogne, where I've developed a deep passion for programming and staying up-to-date with the latest technological advancements. 🤖
 
 Working on projects for my courses is one of my favorite ways to spend time, as I’m constantly driven to improve and bring my ideas to life. Among all areas of programming, web development stands out as my true passion. From designing templates to implementing them with code, the process of turning concepts into functional and creative web solutions continues to fascinate me. 🌐🖼️
