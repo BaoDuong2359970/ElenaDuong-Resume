@@ -25,6 +25,3 @@ I'm actively seeking a **Summer 2025 internship** in the tech industry to expand
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Some projects 🔗
-* [Figma designs](https://www.figma.com/files/team/1280955018724382254/project/292674787/Website-Designs?fuid=1280955013615792207)
