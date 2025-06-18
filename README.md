@@ -24,3 +24,7 @@ Working on projects for my courses is one of my favorite ways to spend time, as 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### DevOps & Cloud Platforms:
+!Azure DevOps
+!Red Hat OpenShift
